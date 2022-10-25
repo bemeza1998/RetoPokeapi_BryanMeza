@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  pokemonUrl: 'http://34.123.133.16/api/v1'\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,184 @@
+[
+    {
+        "_id": {
+            "$oid": "6355cf4708f7be2b4a928d3e"
+        },
+        "nombre": "weedle",
+        "descripcion": "El aguijón de la cabeza es muy puntiagudo. Se alimenta de hojas oculto en la espesura de bosques y praderas.",
+        "tipo": "bicho",
+        "evolucion": [
+            "kakuna",
+            "beedrill"
+        ],
+        "altura": {
+            "$numberDouble": "0.3"
+        },
+        "peso": {
+            "$numberDouble": "3.2"
+        },
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png"
+    },
+    {
+        "_id": {
+            "$oid": "634ee5d59260855d329d3d38"
+        },
+        "altura": {
+            "$numberDouble": "0.5"
+        },
+        "descripcion": "Su capacidad pulmonar es excepcional, incluso para un Pokémon. Es capaz de cantar nanas sin cesar hasta que su rival se duerma.",
+        "evolucion": [
+            "wigglytuff"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+        "nombre": "jigglypuff",
+        "peso": {
+            "$numberDouble": "5.5"
+        },
+        "tipo": "hada"
+    },
+    {
+        "_id": {
+            "$oid": "634ee00e9260855d329d3d31"
+        },
+        "altura": {
+            "$numberDouble": "0.7"
+        },
+        "descripcion": "Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo.",
+        "evolucion": [
+            "ivysaur ",
+            "venusaur"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+        "nombre": "bulbasaur",
+        "peso": {
+            "$numberDouble": "6.9"
+        },
+        "tipo": "planta"
+    },
+    {
+        "_id": {
+            "$oid": "634edc229260855d329d3d2f"
+        },
+        "altura": {
+            "$numberDouble": "0.3"
+        },
+        "descripcion": "Redistribuye las células de su cuerpo para cobrar la apariencia de lo que ve, pero vuelve a la normalidad al relajarse.",
+        "evolucion": "",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/132.png",
+        "nombre": "ditto",
+        "peso": {
+            "$numberInt": "4"
+        },
+        "tipo": "normal"
+    },
+    {
+        "_id": {
+            "$oid": "634ee1559260855d329d3d32"
+        },
+        "altura": {
+            "$numberDouble": "0.4"
+        },
+        "descripcion": "Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
+        "evolucion": [
+            "raichu "
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+        "nombre": "pikachu",
+        "peso": {
+            "$numberInt": "6"
+        },
+        "tipo": "eléctrico"
+    },
+    {
+        "_id": {
+            "$oid": "634ee1b29260855d329d3d33"
+        },
+        "altura": {
+            "$numberInt": "2"
+        },
+        "descripcion": "La longitud de este Pokémon aumenta con el tiempo. Por la noche, se enrosca en las ramas de los árboles para descansar.",
+        "evolucion": [
+            "arbok"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+        "nombre": "ekans",
+        "peso": {
+            "$numberDouble": "6.9"
+        },
+        "tipo": "veneno"
+    },
+    {
+        "_id": {
+            "$oid": "634ee1ff9260855d329d3d34"
+        },
+        "altura": {
+            "$numberDouble": "0.3"
+        },
+        "descripcion": "A la hora de proteger su territorio, compensa su incapacidad para volar a gran altura con una increíble velocidad.",
+        "evolucion": [
+            "fearow"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+        "nombre": "spearow",
+        "peso": {
+            "$numberInt": "2"
+        },
+        "tipo": "volador"
+    },
+    {
+        "_id": {
+            "$oid": "634ee24f9260855d329d3d35"
+        },
+        "altura": {
+            "$numberDouble": "0.3"
+        },
+        "descripcion": "Es propenso a hincar los incisivos en cualquier cosa que se le ponga por delante. Si se ve alguno, seguramente haya cuarenta cerca.",
+        "evolucion": [
+            "raticate"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+        "nombre": "rattata",
+        "peso": {
+            "$numberDouble": "3.5"
+        },
+        "tipo": "normal"
+    },
+    {
+        "_id": {
+            "$oid": "634ee2c29260855d329d3d36"
+        },
+        "altura": {
+            "$numberDouble": "0.3"
+        },
+        "descripcion": "Su docilidad es tal que suelen defenderse levantando arena en lugar de contraatacar.",
+        "evolucion": [
+            "pidgeotto",
+            "pidgeot"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+        "nombre": "pidgey",
+        "peso": {
+            "$numberDouble": "1.8"
+        },
+        "tipo": "volador"
+    },
+    {
+        "_id": {
+            "$oid": "634ee56d9260855d329d3d37"
+        },
+        "altura": {
+            "$numberDouble": "1.3"
+        },
+        "descripcion": "Nació a partir de gases venenosos que asfixiarían a cualquiera que se viera envuelto en ellos.",
+        "evolucion": [
+            "haunter",
+            "gengar"
+        ],
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/92.png",
+        "nombre": "gastly",
+        "peso": {
+            "$numberDouble": "0.1"
+        },
+        "tipo": "fantasma"
+    }
+]

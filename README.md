@@ -6,3 +6,4 @@ Para esta implementación, se utilizó Angular, Java con Springboot y una base d
 Se realizó el despliegue del frontend y backend en contenedores de Google Kubernetes Engine, ayudado de la integración que brinda GitLab.
 La base de datos fue desplegada en Atlas Mongo DB. 
 Para la demostración de la aplicación, se puede acceder a la URL http://35.238.245.90/
+En la página principal se muestran 10 pokemons según lo solicitado, se puede buscar a squirtle o sandshrew para verficiar la existencia de otros pokemon.

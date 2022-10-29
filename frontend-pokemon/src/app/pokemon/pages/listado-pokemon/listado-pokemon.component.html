@@ -3,10 +3,10 @@
     <p class="text-center">API desarrollada para mostrar pokemon desde una base de datos mongo, frontend desarrollado en
         Angular y backend
         en Java con Sringboot</p>
-    <div class="d-flex justify-content-center mb-2">
-        <input #txtBuscar (keyup.enter)=" buscar()" class="form-control w-25" type="search"
-            placeholder="Buscar pokemon..." aria-label="Buscar">
-    </div>
+
+    <input #txtBuscar (keyup.enter)=" buscar()" class="form-control mx-auto w-100 mb-2" style="max-width: 500px;"
+        type="search" placeholder="Buscar pokemon..." aria-label="Buscar">
+
     <div class="d-flex justify-content-center mt-3" *ngIf="noResultados">
         <div class="alert alert-primary w-50 text-center" role="alert">
             No se encontro ningun resultado

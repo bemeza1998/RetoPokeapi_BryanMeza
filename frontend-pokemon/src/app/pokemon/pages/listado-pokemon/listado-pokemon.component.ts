@@ -18,7 +18,6 @@ export class ListadoPokemonComponent implements OnInit {
     this.pokemonService.obtenerPokemons()
       .subscribe((pokemons: Pokemon[]) => {
         this.listadoPokemon = pokemons;
-        console.log(this.listadoPokemon);
       })
   }
 
